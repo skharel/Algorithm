@@ -35,3 +35,9 @@
    - Algorithm taught: `Document Distance`
      - Applications: find similar documents, detect duplicates and plagiarism
      - Idea: compare documents and quantify the similarity
+
+## Algorithms & Complexity tables
+
+| Algorithm | Runtime |
+| --------- | ------- |
+| --        | ---     |
