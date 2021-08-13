@@ -53,18 +53,18 @@
 
 # Algorithms & Complexity tables
 
-|       Algorithm                                     |                   Runtime           |
-| --------------------------------------------------- | ----------------------------------- |
-| Insertion sort:                                     |                                     |
-| &nbsp;  With Pairwise swaps                         | O(n<sup>2</sup>)                    |
-| &nbsp;  With Binary search (Binary insertion sort ) |                                     |
-|                                                     | comparisons: O(n log n) comparisons |
-|                                                     | swaps O(n<sup>2</sup>)              |
-| Merge Sort                                          | O(n log n)                          |
-| Heaps:                                              |                                     |
-| &nbsp;  Build Max Heap                              | O(n)                                |
-| &nbsp;  max_heapify                                 | O(log n)                            |
-| &nbsp;  Heap Sort                                   | O(n log n)                          |
+|       Algorithm                                     |                   Runtime |
+| --------------------------------------------------- | ------------------------- |
+| Insertion sort:                                     |                           |
+| &nbsp;  With Pairwise swaps                         | O(n<sup>2</sup>)          |
+| &nbsp;  With Binary search (Binary insertion sort ) |                           |
+|                                                     | comparisons: O(n log n)   |
+|                                                     | swaps: O(n<sup>2</sup>)   |
+| Merge Sort                                          | O(n log n)                |
+| Heaps:                                              |                           |
+| &nbsp;  Build Max Heap                              | O(n)                      |
+| &nbsp;  max_heapify                                 | O(log n)                  |
+| &nbsp;  Heap Sort                                   | O(n log n)                |
 
 ## Strongly recommended to watch again:
 
