@@ -16,10 +16,10 @@
 
 ## [2. Getting Started](./2)
 
-    - Insertion sort: (L3 lecture time 11:40 - 23:40)
+    - [Insertion sort](https://youtu.be/Kg4bqzAqRBM?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&t=606)
     - Binary Insertion sort
       - Insertion sort where you find correct position using binary search
-    - Merge Sort
+    - [Merge Sort](https://youtu.be/Kg4bqzAqRBM?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&t=1485)
 
 ## Lecture comments
 
@@ -45,9 +45,9 @@
 
 | Algorithm             | Runtime                                           | Lecture            |
 | --------------------- | ------------------------------------------------- | ------------------ |
-| Insertion sort        | O(n<sup>2</sup>)                                  | L2 - 11:40 - 23:40 |
-| Binary Insertion sort | O(n log n) comparisons but O(n<sup>2</sup>) swaps | L2 - 11:40 - 23:40 |
-|                       |                                                   |
+| Insertion sort        | O(n<sup>2</sup>)                                  | L3 - 10:05 - 23:40 |
+| Binary Insertion sort | O(n log n) comparisons but O(n<sup>2</sup>) swaps | L3 - 11:40 - 23:40 |
+| Merge Sort            | O(n log n)                                        | L3 - 24:45 - 39:12 |
 
 ## Strongly recommended to watch again:
 
