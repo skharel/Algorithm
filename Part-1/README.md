@@ -24,11 +24,11 @@
 
 - [Priority Queues](https://youtu.be/B7hVxCmfPtM?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&t=120)
 - [Heaps](https://youtu.be/B7hVxCmfPtM?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&t=375)
-  - Heap As a tree
-  - Max and Min heap
-  - Heap operations
-  - max_heapify & complexity analysis
-  - build max_heap & complexity analysis
+  - [Heap As a tree](https://youtu.be/B7hVxCmfPtM?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&t=562)
+  - [Max and Min heap](https://youtu.be/B7hVxCmfPtM?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&t=630)
+  - [Heap operations](https://youtu.be/B7hVxCmfPtM?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&t=1000)
+  - [max_heapify & complexity analysis](https://youtu.be/B7hVxCmfPtM?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&t=1192)
+  - [build max_heap & complexity analysis](https://youtu.be/B7hVxCmfPtM?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&t=1799)
 - [Heap sort](https://youtu.be/B7hVxCmfPtM?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&t=2883)
 
 ## Lecture comments
