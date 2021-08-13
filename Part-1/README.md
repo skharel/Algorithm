@@ -14,11 +14,26 @@
 
 # Section notes
 
-## [2. Getting Started](./2)
+## [Chapter 2. Getting Started](./2)
+
+- Covered in Lecture 3
 
 - [Insertion sort](https://youtu.be/Kg4bqzAqRBM?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&t=606)
   - Binary Insertion sort - Insertion sort where you find correct position using binary search
 - [Merge Sort](https://youtu.be/Kg4bqzAqRBM?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&t=1485)
+
+## [Chapter 6. Heapsort](./6)
+
+- Covered in Lecture 4
+
+- [Priority Queues](https://youtu.be/B7hVxCmfPtM?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&t=120)
+- [Heaps](https://youtu.be/B7hVxCmfPtM?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&t=375)
+  - Heap As a tree
+  - Max and Min heap
+  - Heap operations
+  - max_heapify & complexity analysis
+  - build max_heap & complexity analysis
+- [Heap sort](https://youtu.be/B7hVxCmfPtM?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&t=2883)
 
 ## Lecture comments
 
@@ -42,11 +57,18 @@
 
 ## Algorithms & Complexity tables
 
-| Algorithm             | Runtime                                           | Lecture            |
-| --------------------- | ------------------------------------------------- | ------------------ |
-| Insertion sort        | O(n<sup>2</sup>)                                  | L3 - 10:05 - 23:40 |
-| Binary Insertion sort | O(n log n) comparisons but O(n<sup>2</sup>) swaps | L3 - 11:40 - 23:40 |
-| Merge Sort            | O(n log n)                                        | L3 - 24:45 - 39:12 |
+|       Algorithm                                     |                   Runtime           |
+| --------------------------------------------------- | ----------------------------------- |
+| Insertion sort:                                     |                                     |
+| &nbsp;  With Pairwise swaps                         | O(n<sup>2</sup>)                    |
+| &nbsp;  With Binary search (Binary insertion sort ) |                                     |
+|                                                     | comparisons: O(n log n) comparisons |
+|                                                     | swaps O(n<sup>2</sup>)              |
+| Merge Sort                                          | O(n log n)                          |
+| Heaps:                                              |                                     |
+| &nbsp;  Build Max Heap                              | O(n)                                |
+| &nbsp;  max_heapify                                 | O(log n)                            |
+| &nbsp;  Heap Sort                                   | O(n log n)                          |
 
 ## Strongly recommended to watch again:
 
