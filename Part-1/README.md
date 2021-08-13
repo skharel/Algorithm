@@ -29,15 +29,23 @@
 
    - covers O, Θ & Ω analysis
    - Example of Asymptotic analysis for multiple random functions
+   - `Important to understand how to analyze; what matters and what can be dropped`
 
 2. L2
-   - Ideas on how to think about cost of algorithms
+   - Covers the model of computation which helps in thinking about what to look for when analyzing cost
+   - `cost of algorithm = sum of cost`
    - Algorithm taught: `Document Distance`
      - Applications: find similar documents, detect duplicates and plagiarism
      - Idea: compare documents and quantify the similarity
+   - `Important to understand in order to really understand how to compute cost of algorithm`
 
 ## Algorithms & Complexity tables
 
 | Algorithm | Runtime |
 | --------- | ------- |
 | --        | ---     |
+
+## Strongly recommended to watch again:
+
+- [R1](https://www.youtube.com/watch?v=P7frcB_-g4w)
+- [L2](https://www.youtube.com/watch?v=Zc54gFhdpLA&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
