@@ -51,7 +51,7 @@
      - Idea: compare documents and quantify the similarity
    - `Important to understand in order to really understand how to compute cost of algorithm`
 
-## Algorithms & Complexity tables
+# Algorithms & Complexity tables
 
 |       Algorithm                                     |                   Runtime           |
 | --------------------------------------------------- | ----------------------------------- |
