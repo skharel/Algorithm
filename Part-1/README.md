@@ -16,10 +16,9 @@
 
 ## [2. Getting Started](./2)
 
-    - [Insertion sort](https://youtu.be/Kg4bqzAqRBM?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&t=606)
-    - Binary Insertion sort
-      - Insertion sort where you find correct position using binary search
-    - [Merge Sort](https://youtu.be/Kg4bqzAqRBM?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&t=1485)
+- [Insertion sort](https://youtu.be/Kg4bqzAqRBM?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&t=606)
+  - Binary Insertion sort - Insertion sort where you find correct position using binary search
+- [Merge Sort](https://youtu.be/Kg4bqzAqRBM?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&t=1485)
 
 ## Lecture comments
 
