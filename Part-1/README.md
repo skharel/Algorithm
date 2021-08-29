@@ -6,6 +6,10 @@
 
 # [Recitation videos](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/recitation-videos/)
 
+- Links to recitation handouts: in every recitation video in MIT website, there is section recitation notes which has the handouts + notes + codes
+
+![recitation notes](extras/recitation-notes.png)
+
 # [Assignment problems with solutions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/assignments/)
 
 # [Programming assingment with solutions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/assignments/)
@@ -31,7 +35,12 @@
   - [build max_heap & complexity analysis](https://youtu.be/B7hVxCmfPtM?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&t=1799)
 - [Heap sort](https://youtu.be/B7hVxCmfPtM?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&t=2883)
 
-## Lecture comments
+## Chapter 10 & 12 - Lecture 5
+
+- 10.4: Representing rooted trees
+- 12: Binary Search Trees
+
+# Lecture comments
 
 > L: means lecture video;
 
